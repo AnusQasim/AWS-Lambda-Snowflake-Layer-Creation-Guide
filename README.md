@@ -1,0 +1,1 @@
+# AWS-Lambda-Snowflake-Layer-Creation-Guide
